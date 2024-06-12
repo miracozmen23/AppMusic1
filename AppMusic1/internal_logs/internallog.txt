@@ -1,0 +1,544 @@
+2024-06-04 16:33:59.8701 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 16:33:59.9025 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 16:33:59.9092 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 16:33:59.9092 Info Configuration initialized.
+2024-06-04 16:34:33.5202 Info AppDomain Shutting down. LogFactory closing...
+2024-06-04 16:34:33.5202 Info LogFactory has been closed.
+2024-06-04 16:46:30.8229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 16:46:30.8376 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 16:46:30.8440 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 16:46:30.8440 Info Configuration initialized.
+2024-06-04 16:49:31.7683 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 16:49:31.8129 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 16:49:31.8129 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 16:49:31.8397 Info Configuration initialized.
+2024-06-04 17:15:40.9709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 17:15:40.9865 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 17:15:40.9865 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 17:15:41.0035 Info Configuration initialized.
+2024-06-04 17:20:34.9713 Info AppDomain Shutting down. LogFactory closing...
+2024-06-04 17:20:34.9713 Info LogFactory has been closed.
+2024-06-04 17:28:22.7216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 17:28:22.7419 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 17:28:22.7488 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 17:28:22.7488 Info Configuration initialized.
+2024-06-04 17:29:39.4701 Info AppDomain Shutting down. LogFactory closing...
+2024-06-04 17:29:39.4701 Info LogFactory has been closed.
+2024-06-04 17:33:51.1668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-04 17:33:51.1823 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-04 17:33:51.1887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-04 17:33:51.1887 Info Configuration initialized.
+2024-06-06 13:20:03.3524 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-06 13:20:03.3842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-06 13:20:03.3842 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-06 13:20:03.3974 Info Configuration initialized.
+2024-06-06 13:24:06.0450 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-06 13:24:06.0711 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-06 13:24:06.0826 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-06 13:24:06.0826 Info Configuration initialized.
+2024-06-07 10:48:15.2646 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-07 10:48:15.3000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-07 10:48:15.3000 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-07 10:48:15.3151 Info Configuration initialized.
+2024-06-08 18:22:31.9047 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:22:31.9377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:22:31.9377 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:22:31.9566 Info Configuration initialized.
+2024-06-08 18:23:52.6739 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:23:52.6942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:23:52.7053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:23:52.7053 Info Configuration initialized.
+2024-06-08 18:25:10.5936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:25:10.6378 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:25:10.6580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:25:10.6777 Info Configuration initialized.
+2024-06-08 18:25:16.4023 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 18:25:16.4023 Info LogFactory has been closed.
+2024-06-08 18:25:29.4066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:25:29.4271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:25:29.4271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:25:29.4420 Info Configuration initialized.
+2024-06-08 18:26:37.4164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:26:37.4304 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:26:37.4369 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:26:37.4369 Info Configuration initialized.
+2024-06-08 18:30:50.7374 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:30:50.7627 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:30:50.7627 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:30:50.7848 Info Configuration initialized.
+2024-06-08 18:35:06.0774 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 18:35:06.0774 Info LogFactory has been closed.
+2024-06-08 18:36:30.6269 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:36:30.6436 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:36:30.6436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:36:30.6602 Info Configuration initialized.
+2024-06-08 18:38:06.4758 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 18:38:06.4818 Info LogFactory has been closed.
+2024-06-08 18:38:25.7190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:38:25.7440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:38:25.7561 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:38:25.7679 Info Configuration initialized.
+2024-06-08 18:41:56.8714 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 18:41:56.8714 Info LogFactory has been closed.
+2024-06-08 18:47:51.6169 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:47:51.6332 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:47:51.6414 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\bin\Debug\net8.0\NLog.config
+2024-06-08 18:47:51.6414 Info Configuration initialized.
+2024-06-08 18:48:10.6553 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:48:10.6739 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:48:10.6739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:48:10.6932 Info Configuration initialized.
+2024-06-08 18:50:52.2614 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:50:52.2779 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:50:52.2779 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:50:52.2985 Info Configuration initialized.
+2024-06-08 18:52:40.6144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:52:40.6331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:52:40.6427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:52:40.6427 Info Configuration initialized.
+2024-06-08 18:52:56.2509 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 18:52:56.2651 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 18:52:56.2651 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 18:52:56.2833 Info Configuration initialized.
+2024-06-08 19:12:44.3337 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:12:44.3484 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:12:44.3577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:12:44.3577 Info Configuration initialized.
+2024-06-08 19:12:57.5146 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 19:12:57.5146 Info LogFactory has been closed.
+2024-06-08 19:19:14.2073 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:19:14.2250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:19:14.2316 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:19:14.2316 Info Configuration initialized.
+2024-06-08 19:19:35.4183 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:19:35.4340 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:19:35.4340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:19:35.4499 Info Configuration initialized.
+2024-06-08 19:20:21.2132 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:20:21.2295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:20:21.2379 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:20:21.2379 Info Configuration initialized.
+2024-06-08 19:22:22.9242 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 19:22:22.9242 Info LogFactory has been closed.
+2024-06-08 19:22:49.5327 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:22:49.5526 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:22:49.5608 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:22:49.5608 Info Configuration initialized.
+2024-06-08 19:24:12.8310 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 19:24:12.8310 Info LogFactory has been closed.
+2024-06-08 19:24:20.6886 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:24:20.7055 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:24:20.7055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:24:20.7197 Info Configuration initialized.
+2024-06-08 19:24:56.8342 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:24:56.8486 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:24:56.8486 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:24:56.8617 Info Configuration initialized.
+2024-06-08 19:25:33.4680 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:25:33.4921 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:25:33.5062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:25:33.5256 Info Configuration initialized.
+2024-06-08 19:27:14.0258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:27:14.0398 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:27:14.0461 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:27:14.0461 Info Configuration initialized.
+2024-06-08 19:27:43.0402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:27:43.0555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:27:43.0619 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:27:43.0619 Info Configuration initialized.
+2024-06-08 19:28:13.3472 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 19:28:13.3472 Info LogFactory has been closed.
+2024-06-08 19:34:06.4696 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 19:34:06.4845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 19:34:06.4845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 19:34:06.4981 Info Configuration initialized.
+2024-06-08 19:34:47.8324 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 19:34:47.8406 Info LogFactory has been closed.
+2024-06-08 20:17:00.2831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:17:00.2992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:17:00.2992 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:17:00.3140 Info Configuration initialized.
+2024-06-08 20:18:11.9969 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 20:18:11.9969 Info LogFactory has been closed.
+2024-06-08 20:19:13.5753 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:19:13.5928 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:19:13.5928 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:19:13.6094 Info Configuration initialized.
+2024-06-08 20:20:02.1944 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:20:02.2092 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:20:02.2156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:20:02.2156 Info Configuration initialized.
+2024-06-08 20:21:45.4854 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 20:21:45.4854 Info LogFactory has been closed.
+2024-06-08 20:23:12.3820 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:23:12.3982 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:23:12.4077 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:23:12.4077 Info Configuration initialized.
+2024-06-08 20:25:03.9616 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 20:25:03.9674 Info LogFactory has been closed.
+2024-06-08 20:25:25.9767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:25:25.9922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:25:25.9984 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:25:25.9984 Info Configuration initialized.
+2024-06-08 20:26:35.2513 Info AppDomain Shutting down. LogFactory closing...
+2024-06-08 20:26:35.2513 Info LogFactory has been closed.
+2024-06-08 20:26:47.7932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:26:47.8132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:26:47.8248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:26:47.8418 Info Configuration initialized.
+2024-06-08 20:29:55.7527 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:29:55.7678 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:29:55.7678 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:29:55.7841 Info Configuration initialized.
+2024-06-08 20:34:48.7399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:34:48.7604 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:34:48.7865 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:34:48.8087 Info Configuration initialized.
+2024-06-08 20:40:06.2055 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-08 20:40:06.2243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-08 20:40:06.2330 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-08 20:40:06.2330 Info Configuration initialized.
+2024-06-09 14:32:30.8913 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:32:30.9261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:32:30.9261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:32:30.9413 Info Configuration initialized.
+2024-06-09 14:33:00.6031 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 14:33:00.6105 Info LogFactory has been closed.
+2024-06-09 14:34:27.4326 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:34:27.4519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:34:27.4519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:34:27.4684 Info Configuration initialized.
+2024-06-09 14:35:23.4001 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:35:23.4773 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:35:23.4900 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:35:23.5057 Info Configuration initialized.
+2024-06-09 14:36:04.3468 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 14:36:04.3468 Info LogFactory has been closed.
+2024-06-09 14:36:26.0958 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:36:26.1130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:36:26.1130 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:36:26.1289 Info Configuration initialized.
+2024-06-09 14:38:52.0348 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:38:52.0500 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:38:52.0500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:38:52.0658 Info Configuration initialized.
+2024-06-09 14:44:33.9493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:44:33.9648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:44:33.9726 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:44:33.9826 Info Configuration initialized.
+2024-06-09 14:44:56.9044 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 14:44:56.9252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 14:44:56.9339 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 14:44:56.9339 Info Configuration initialized.
+2024-06-09 15:35:34.2184 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:35:34.2347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:35:34.2347 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:35:34.2494 Info Configuration initialized.
+2024-06-09 15:37:03.1604 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 15:37:03.1604 Info LogFactory has been closed.
+2024-06-09 15:37:44.5948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:37:44.6106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:37:44.6106 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:37:44.6246 Info Configuration initialized.
+2024-06-09 15:39:08.8806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:39:08.8963 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:39:08.9035 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:39:08.9035 Info Configuration initialized.
+2024-06-09 15:41:55.4657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:41:55.4798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:41:55.4862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:41:55.4862 Info Configuration initialized.
+2024-06-09 15:42:05.6863 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 15:42:05.6863 Info LogFactory has been closed.
+2024-06-09 15:43:19.9153 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:43:19.9316 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:43:19.9386 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:43:19.9386 Info Configuration initialized.
+2024-06-09 15:44:29.1897 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:44:29.2237 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:44:29.2381 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:44:29.2523 Info Configuration initialized.
+2024-06-09 15:47:21.8719 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:47:21.8902 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:47:21.8902 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:47:21.9112 Info Configuration initialized.
+2024-06-09 15:47:53.4771 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 15:47:53.4834 Info LogFactory has been closed.
+2024-06-09 15:50:41.0946 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:50:41.1132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:50:41.1132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:50:41.1268 Info Configuration initialized.
+2024-06-09 15:51:33.6668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 15:51:33.6808 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 15:51:33.6871 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 15:51:33.6871 Info Configuration initialized.
+2024-06-09 15:57:01.8186 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 15:57:01.8255 Info LogFactory has been closed.
+2024-06-09 16:05:30.6887 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 16:05:30.7038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 16:05:30.7038 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 16:05:30.7173 Info Configuration initialized.
+2024-06-09 16:25:11.6450 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 16:25:11.6555 Info LogFactory has been closed.
+2024-06-09 16:53:12.0146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 16:53:12.0418 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 16:53:12.0510 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 16:53:12.0602 Info Configuration initialized.
+2024-06-09 16:53:40.1071 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 16:53:40.1071 Info LogFactory has been closed.
+2024-06-09 17:17:01.5715 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 17:17:01.5797 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 17:17:01.5797 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 17:17:01.5907 Info Configuration initialized.
+2024-06-09 17:17:02.2860 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 17:17:02.2860 Info LogFactory has been closed.
+2024-06-09 17:17:20.2540 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 17:17:20.2623 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 17:17:20.2623 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 17:17:20.2623 Info Configuration initialized.
+2024-06-09 17:17:20.9598 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 17:17:20.9598 Info LogFactory has been closed.
+2024-06-09 17:20:59.4623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 17:20:59.4709 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 17:20:59.4709 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 17:20:59.4818 Info Configuration initialized.
+2024-06-09 17:21:00.6544 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 17:21:00.6544 Info LogFactory has been closed.
+2024-06-09 18:24:29.0366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 18:24:29.0525 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 18:24:29.0593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 18:24:29.0593 Info Configuration initialized.
+2024-06-09 19:23:06.6436 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:23:06.6724 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:23:06.6843 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:23:06.6843 Info Configuration initialized.
+2024-06-09 19:30:51.8584 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:30:51.8584 Info LogFactory has been closed.
+2024-06-09 19:31:22.4163 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:31:22.4346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:31:22.4346 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:31:22.4556 Info Configuration initialized.
+2024-06-09 19:34:19.4751 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:34:19.4858 Info LogFactory has been closed.
+2024-06-09 19:36:14.2483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:36:14.2650 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:36:14.2650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:36:14.2789 Info Configuration initialized.
+2024-06-09 19:37:51.3965 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:37:51.4030 Info LogFactory has been closed.
+2024-06-09 19:38:07.4507 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:38:07.4658 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:38:07.4658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:38:07.4658 Info Configuration initialized.
+2024-06-09 19:38:56.4406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:38:56.4632 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:38:56.4717 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:38:56.4717 Info Configuration initialized.
+2024-06-09 19:39:18.9861 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:39:18.9861 Info LogFactory has been closed.
+2024-06-09 19:41:22.5972 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:41:22.6152 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:41:22.6218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:41:22.6218 Info Configuration initialized.
+2024-06-09 19:43:58.7028 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:43:58.7028 Info LogFactory has been closed.
+2024-06-09 19:46:27.9910 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:46:28.0124 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:46:28.0124 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:46:28.0370 Info Configuration initialized.
+2024-06-09 19:47:41.8111 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:47:41.8111 Info LogFactory has been closed.
+2024-06-09 19:48:51.7220 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:48:51.7476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:48:51.7476 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:48:51.7700 Info Configuration initialized.
+2024-06-09 19:49:42.0641 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:49:42.0641 Info LogFactory has been closed.
+2024-06-09 19:50:04.0850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:50:04.1101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:50:04.1101 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:50:04.1300 Info Configuration initialized.
+2024-06-09 19:54:04.4544 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:54:04.4698 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:54:04.4698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:54:04.4842 Info Configuration initialized.
+2024-06-09 19:55:26.6550 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:55:26.6550 Info LogFactory has been closed.
+2024-06-09 19:56:46.1676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:56:46.1957 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:56:46.2071 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:56:46.2188 Info Configuration initialized.
+2024-06-09 19:57:37.0543 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 19:57:37.0656 Info LogFactory has been closed.
+2024-06-09 19:58:09.1368 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 19:58:09.1531 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 19:58:09.1531 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 19:58:09.1531 Info Configuration initialized.
+2024-06-09 20:03:40.6474 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 20:03:40.6735 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 20:03:40.6735 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 20:03:40.6975 Info Configuration initialized.
+2024-06-09 20:06:19.1228 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 20:06:19.1334 Info LogFactory has been closed.
+2024-06-09 20:07:54.5407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 20:07:54.5572 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 20:07:54.5637 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 20:07:54.5637 Info Configuration initialized.
+2024-06-09 20:12:13.5264 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 20:12:13.5324 Info LogFactory has been closed.
+2024-06-09 20:29:07.5446 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 20:29:07.5591 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 20:29:07.5650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 20:29:07.5650 Info Configuration initialized.
+2024-06-09 20:44:09.7058 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 20:44:09.7058 Info LogFactory has been closed.
+2024-06-09 20:47:38.2909 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 20:47:38.3403 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 20:47:38.3403 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 20:47:38.3403 Info Configuration initialized.
+2024-06-09 20:50:58.6753 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 20:50:58.6890 Info LogFactory has been closed.
+2024-06-09 20:51:45.3928 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 20:51:45.4144 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 20:51:45.4256 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 20:51:45.4407 Info Configuration initialized.
+2024-06-09 21:07:24.2984 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 21:07:24.3112 Info LogFactory has been closed.
+2024-06-09 21:09:20.6272 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-09 21:09:20.6488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-09 21:09:20.6596 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-09 21:09:20.6596 Info Configuration initialized.
+2024-06-09 21:26:35.2410 Info AppDomain Shutting down. LogFactory closing...
+2024-06-09 21:26:35.2539 Info LogFactory has been closed.
+2024-06-10 14:15:59.3068 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 14:15:59.3719 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 14:15:59.3719 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 14:15:59.3963 Info Configuration initialized.
+2024-06-10 14:16:27.3791 Info AppDomain Shutting down. LogFactory closing...
+2024-06-10 14:16:27.3791 Info LogFactory has been closed.
+2024-06-10 14:45:36.3946 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 14:45:36.4092 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 14:45:36.4092 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 14:45:36.4231 Info Configuration initialized.
+2024-06-10 14:46:48.5021 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 14:46:48.5466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 14:46:48.5598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 14:46:48.5763 Info Configuration initialized.
+2024-06-10 14:48:17.3897 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 14:48:17.4038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 14:48:17.4038 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 14:48:17.4179 Info Configuration initialized.
+2024-06-10 18:08:09.1895 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 18:08:09.2085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 18:08:09.2159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 18:08:09.2159 Info Configuration initialized.
+2024-06-10 18:18:45.0857 Info AppDomain Shutting down. LogFactory closing...
+2024-06-10 18:18:45.0924 Info LogFactory has been closed.
+2024-06-10 18:19:20.6814 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 18:19:20.7183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 18:19:20.7325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 18:19:20.7501 Info Configuration initialized.
+2024-06-10 18:21:57.3463 Info AppDomain Shutting down. LogFactory closing...
+2024-06-10 18:21:57.3463 Info LogFactory has been closed.
+2024-06-10 19:01:32.1546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 19:01:32.1721 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 19:01:32.1721 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 19:01:32.1892 Info Configuration initialized.
+2024-06-10 19:40:18.3988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 19:40:18.4173 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 19:40:18.4243 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 19:40:18.4340 Info Configuration initialized.
+2024-06-10 19:42:39.3804 Info AppDomain Shutting down. LogFactory closing...
+2024-06-10 19:42:39.3862 Info LogFactory has been closed.
+2024-06-10 19:42:47.0527 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-10 19:42:47.0850 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-10 19:42:47.1031 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-10 19:42:47.1202 Info Configuration initialized.
+2024-06-10 19:44:52.7223 Info AppDomain Shutting down. LogFactory closing...
+2024-06-10 19:44:52.7223 Info LogFactory has been closed.
+2024-06-11 12:52:24.3383 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 12:52:24.3541 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 12:52:24.3606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 12:52:24.3606 Info Configuration initialized.
+2024-06-11 12:55:25.5338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 12:55:25.5507 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 12:55:25.5591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 12:55:25.5591 Info Configuration initialized.
+2024-06-11 13:03:09.2597 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:03:09.3009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:03:09.3132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:03:09.3296 Info Configuration initialized.
+2024-06-11 13:06:08.7034 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 13:06:08.7162 Info LogFactory has been closed.
+2024-06-11 13:06:40.0758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:06:40.1218 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:06:40.1218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:06:40.1218 Info Configuration initialized.
+2024-06-11 13:09:25.2038 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:09:25.2283 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:09:25.2385 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:09:25.2500 Info Configuration initialized.
+2024-06-11 13:10:02.3435 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:10:02.3588 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:10:02.3588 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:10:02.3724 Info Configuration initialized.
+2024-06-11 13:13:15.3987 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:13:15.4239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:13:15.4349 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:13:15.4349 Info Configuration initialized.
+2024-06-11 13:13:42.7089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:13:42.7274 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:13:42.7338 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:13:42.7338 Info Configuration initialized.
+2024-06-11 13:31:07.5837 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 13:31:07.6002 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 13:31:07.6068 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 13:31:07.6068 Info Configuration initialized.
+2024-06-11 13:35:49.1389 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 13:35:49.1389 Info LogFactory has been closed.
+2024-06-11 14:07:25.8771 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:07:25.8940 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:07:25.8940 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:07:25.9103 Info Configuration initialized.
+2024-06-11 14:13:28.5623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:13:28.5764 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:13:28.5764 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:13:28.5900 Info Configuration initialized.
+2024-06-11 14:16:31.7347 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:16:31.7624 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:16:31.7624 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:16:31.7928 Info Configuration initialized.
+2024-06-11 14:17:05.6525 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 14:17:05.6582 Info LogFactory has been closed.
+2024-06-11 14:17:46.7144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:17:46.7334 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:17:46.7334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:17:46.7501 Info Configuration initialized.
+2024-06-11 14:22:14.4202 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:22:14.4341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:22:14.4341 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:22:14.4341 Info Configuration initialized.
+2024-06-11 14:40:06.1273 Info AppDomain Shutting down. LogFactory closing...
+2024-06-11 14:40:06.1386 Info LogFactory has been closed.
+2024-06-11 14:42:51.0674 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-11 14:42:51.0969 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-11 14:42:51.1082 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-11 14:42:51.1217 Info Configuration initialized.
+2024-06-12 13:07:49.8675 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 13:07:49.8995 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 13:07:49.9059 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-12 13:07:49.9059 Info Configuration initialized.
+2024-06-12 13:08:43.0876 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 13:08:43.0938 Info LogFactory has been closed.
+2024-06-12 13:09:00.8845 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 13:09:00.9004 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 13:09:00.9087 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-12 13:09:00.9176 Info Configuration initialized.
+2024-06-12 13:10:46.8837 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 13:10:46.8913 Info LogFactory has been closed.
+2024-06-12 15:17:43.2403 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-12 15:17:43.2579 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-12 15:17:43.2646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\User\source\repos\AppMusic1\AppMusic1\nlog.config
+2024-06-12 15:17:43.2646 Info Configuration initialized.
+2024-06-12 15:23:49.0530 Info AppDomain Shutting down. LogFactory closing...
+2024-06-12 15:23:49.0605 Info LogFactory has been closed.
