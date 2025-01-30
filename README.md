@@ -1,4 +1,4 @@
-# ApiMusic
+# ApiMusic1
 
 ## Proje Açıklaması
 Bu proje, kullanıcıların dinledikleri müzikler hakkında bilgi işlemlerini gerçekleştirmeyi amaçlar. Kullanıcılar albümlere, şarkıcılara ve şarkılara göre isteklerini getirebilir. Veri tabanında kalıcı olarak saklanan bu bilgilere; filtreleme, sıralama ve sayfalama özellikleri sayesinde kolaylıkla erişebilirler.
